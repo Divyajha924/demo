@@ -1,4 +1,4 @@
-package com.interview.question;
+package com.interview.question.applied;
 
 import java.util.ArrayList;
 

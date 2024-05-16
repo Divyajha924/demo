@@ -1,4 +1,4 @@
-package com.interview.question;
+package com.interview.question.applied;
 
 public class Applied {
 

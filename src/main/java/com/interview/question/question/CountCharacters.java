@@ -1,8 +1,7 @@
-package com.chubb.question;
+package com.interview.question.question;
 
 import java.util.Arrays;
 import java.util.HashMap;
-import java.util.LinkedHashMap;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 
