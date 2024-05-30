@@ -2,6 +2,7 @@ package com.striver.sheet.array.part4;
 
 import java.util.Arrays;
 import java.util.HashMap;
+import java.util.Iterator;
 
 public class twoSum {
     public static int[] twoSum(int[] nums, int target) {
